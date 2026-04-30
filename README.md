@@ -29,11 +29,11 @@ PySpark · Hadoop · Pandas · NumPy · SQL · Streamlit
 
 | Project | Description | Stack |
 |---|---|---|
-| [Vehicle Monitoring System]([link](https://github.com/ahmedlila/Graduation-Project)) | Real-time multi-object vehicle tracking with YOLOv7 and custom temporal consistency algorithm | PyTorch · YOLOv7 · OpenCV |
+| [Vehicle Monitoring System](https://github.com/ahmedlila/Graduation-Project) | Real-time multi-object vehicle tracking with YOLOv7 and custom temporal consistency algorithm | PyTorch · YOLOv7 · OpenCV |
 | [Customer Churn Agent](link) | Autonomous LangGraph agent for churn prediction with Streamlit interface | LangGraph · Random Forest · Streamlit |
-| [Fact-Checking LLM Pipeline]([link](https://github.com/fady2001/Truthify/tree/main)) | Implementation of Microsoft Research claim extraction paper with correction generation | Transformers · NLP |
+| [Fact-Checking LLM Pipeline](https://github.com/fady2001/Truthify/tree/main) | Implementation of Microsoft Research claim extraction paper with correction generation | Transformers · NLP |
 | [Image Captioning](link) | Multimodal captioning system with Transformer decoder and beam search | PyTorch · YOLO · Attention |
-| [Cinema Crawler]([link](https://github.com/OmarGaballah/Cinema-Crawler)) | Distributed ML pipeline on AWS EMR with PySpark | PySpark · AWS · S3 |
+| [Cinema Crawler](https://github.com/OmarGaballah/Cinema-Crawler) | Distributed ML pipeline on AWS EMR with PySpark | PySpark · AWS · S3 |
 
 ---
 
