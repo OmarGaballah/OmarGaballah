@@ -38,7 +38,7 @@ PySpark · Hadoop · Pandas · NumPy · SQL · Streamlit
 
 ## Background
 
-- AI Engineer Intern @ Digitalis Commerce — deployed SDXL diffusion model API, 
+- AI Engineer @ Digitalis Commerce — deployed SDXL diffusion model API, 
   achieved 50% VRAM reduction via INT8 quantization
 - Computer Vision Research Intern @ Zewail City University
 - ITI Data Science Diploma · Zewail City BSc in Communication & Information Engineering
