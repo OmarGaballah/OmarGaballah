@@ -4,8 +4,7 @@ AI Engineer focused on Computer Vision, Generative AI, and Agentic AI systems.
 I build end-to-end intelligent systems — from model training and fine-tuning 
 to production deployment.
 
-Currently working as an AI Engineer at Digitalis Commerce (France, Remote)
-and open to new opportunities.
+Currently working as an AI Engineer at Helm AI and open to new opportunities.
 
 ---
 
